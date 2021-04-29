@@ -29,11 +29,11 @@ By just putting in a few hours a week for the next few weeks, this is what youâ€
 
 <br />
 
-> #### [WEEK 2](Week 2 LABs)
+> #### [WEEK 2](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/tree/main/Week%202%20LABs)
 > __Regression__
 > In this week, you will get a brief intro to regression. You learn about Linear, Non-linear, Simple and Multiple regression, and their applications. You apply all these methods on two different datasets, in the lab part. Also, you learn how to evaluate your regression model, and calculate its accuracy.
 >
-> **[5. LAB:** Simple Linear Regression](Week_2__LAB_1.ipynb)
+> **[5. LAB:** Simple Linear Regression](Week 2 LABs/Week_2__LAB_1.ipynb)
 > **7. LAB:** Multiple Linear Regression
 > **9. LAB:** Polynomial Regression
 > **10. LAB:** Non-linear Regression
