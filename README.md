@@ -33,10 +33,14 @@ By just putting in a few hours a week for the next few weeks, this is what youâ€
 > __Regression__
 > In this week, you will get a brief intro to regression. You learn about Linear, Non-linear, Simple and Multiple regression, and their applications. You apply all these methods on two different datasets, in the lab part. Also, you learn how to evaluate your regression model, and calculate its accuracy.
 >
-> [**5. LAB:** Simple Linear Regression](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/blob/main/Week%202%20LABs/Week_2__LAB_1.ipynb)<br />
+> [**5. LAB:** Simple Linear Regression](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/blob/main/Week%202%20LABs/Week_2__LAB_1.ipynb)
+>
 > **7. LAB:** Multiple Linear Regression
+> 
 > **9. LAB:** Polynomial Regression
+> 
 > **10. LAB:** Non-linear Regression
+> 
 > **Graded:** regression>
 
 <br />
@@ -46,9 +50,13 @@ By just putting in a few hours a week for the next few weeks, this is what youâ€
 > In this week, you will learn about classification technique. You practice with different classification algorithms, such as KNN, Decision Trees, Logistic Regression and SVM. Also, you learn about pros and cons of each method, and different classification accuracy metrics.
 >
 > **4. LAB:** KNN
+> 
 > **7. LAB:** Decision Trees
+> 
 > **11. LAB:** Logistic Regression
+> 
 > **13. LAB:** SVM (Support Vector Machines)
+> 
 > **Graded:** Classification
 >
 
@@ -59,8 +67,11 @@ By just putting in a few hours a week for the next few weeks, this is what youâ€
 > In this section, you will learn about different clustering approaches. You learn how to use clustering for customer segmentation, grouping same vehicles, and also clustering of weather stations. You understand 3 main types of clustering, including Partitioned-based Clustering, Hierarchical Clustering, and Density-based Clustering.
 >
 > **4. LAB:** k-Means
+> 
 > **7. LAB:** Agglomerative clustering
+> 
 > **9. LAB:** DBSCAN Clustering
+> 
 > **Graded:** Clustering
 >
 
@@ -71,7 +82,9 @@ By just putting in a few hours a week for the next few weeks, this is what youâ€
 > In this module, you will learn about recommender systems. First, you will get introduced with main idea behind recommendation engines, then you understand two main types of recommendation engines, namely, content-based and collaborative filtering.
 >
 > **3. LAB:** Content-based Recommendation Systems
+> 
 > **5. LAB:** Collaborative Filtering on Movies
+> 
 > **Graded:** Recommender System
 
 <br />
