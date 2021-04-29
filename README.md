@@ -82,7 +82,6 @@ By just putting in a few hours a week for the next few weeks, this is what youâ€
 
 <br />
 <br />
-<br />
 
 ### Offered by IBM
 
