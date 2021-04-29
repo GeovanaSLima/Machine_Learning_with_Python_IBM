@@ -16,6 +16,8 @@ By just putting in a few hours a week for the next few weeks, this is what youâ€
   2) New projects that you can add to your portfolio, including cancer detection, predicting economic trends, predicting customer churn, recommendation engines, and many more.
   3) And a certificate in machine learning to prove your competency, and share it anywhere you like online or offline, such as LinkedIn profiles and social media.
 
+<br />
+
 ### Syllabus
 
 > #### WEEWK 1
@@ -79,8 +81,8 @@ By just putting in a few hours a week for the next few weeks, this is what youâ€
 > In this module, you will do a project based of what you have learned so far. You will submit a report of your project for peer evaluation.
 >
 > **Graded:** The best classifier
+>
 
-<br />
 <br />
 
 ### Offered by IBM
