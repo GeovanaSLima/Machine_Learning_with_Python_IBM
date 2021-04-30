@@ -41,7 +41,7 @@ By just putting in a few hours a week for the next few weeks, this is what youâ€
 > 
 > **10. LAB:** Non-linear Regression
 > 
-> **Graded:** regression>
+> **Graded:** Regression
 
 <br />
 
