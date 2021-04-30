@@ -24,7 +24,7 @@ By just putting in a few hours a week for the next few weeks, this is what youâ€
 > __Introduction to Machine Learning__
 > In this week, you will learn about applications of Machine Learning in different fields such as health care, banking, telecommunication, and so on. Youâ€™ll get a general overview of Machine Learning topics such as supervised vs unsupervised learning, and the usage of each algorithm. Also, you understand the advantage of using Python libraries for implementing Machine Learning models.
 >
-> **Graded:** Intro to Machine Learning
+> [**Graded:** Intro to Machine Learning](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/blob/main/Week%201%20-%20Quiz.pdf)
 >
 
 <br />
