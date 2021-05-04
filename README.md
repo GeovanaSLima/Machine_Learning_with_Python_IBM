@@ -35,7 +35,7 @@ By just putting in a few hours a week for the next few weeks, this is what youâ€
 >
 > [**5. LAB:** Simple Linear Regression](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/blob/main/Week%202%20LABs/Week_2__LAB_1.ipynb)
 >
-> **7. LAB:** Multiple Linear Regression
+> [**7. LAB:** Multiple Linear Regression](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/blob/main/Week%202%20LABs/Week_2__LAB_2.ipynb)
 > 
 > **9. LAB:** Polynomial Regression
 > 
