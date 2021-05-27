@@ -37,11 +37,11 @@ By just putting in a few hours a week for the next few weeks, this is what youâ€
 >
 > [**7. LAB:** Multiple Linear Regression](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/blob/main/Week%202%20LABs/Week_2__LAB_2.ipynb)
 > 
-> **9. LAB:** Polynomial Regression
+> [**9. LAB:** Polynomial Regression](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/blob/main/Week%202%20LABs/Week_2__LAB_3.ipynb)
 > 
-> **10. LAB:** Non-linear Regression
+> [**10. LAB:** Non-linear Regression](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/blob/main/Week%202%20LABs/Week_2__LAB_4.ipynb)
 > 
-> **Graded:** Regression
+> [**Graded:** Regression](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/blob/main/Week%202%20-%20Quiz.pdf)
 
 <br />
 
@@ -49,7 +49,7 @@ By just putting in a few hours a week for the next few weeks, this is what youâ€
 > __Classification__
 > In this week, you will learn about classification technique. You practice with different classification algorithms, such as KNN, Decision Trees, Logistic Regression and SVM. Also, you learn about pros and cons of each method, and different classification accuracy metrics.
 >
-> **4. LAB:** KNN
+> [**4. LAB:** KNN](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/blob/main/Week%203%20LABs/Week_3__LAB_1.ipynb)
 > 
 > **7. LAB:** Decision Trees
 > 
