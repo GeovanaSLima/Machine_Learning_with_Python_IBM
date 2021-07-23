@@ -51,7 +51,7 @@ By just putting in a few hours a week for the next few weeks, this is what youâ€
 >
 > [**4. LAB:** KNN](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/blob/main/Week%203%20LABs/Week_3__LAB_1.ipynb)
 > 
-> **7. LAB:** Decision Trees
+> [**7. LAB:** Decision Trees](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/blob/main/Week%203%20LABs/Week_3__LAB_2.ipynb)
 > 
 > **11. LAB:** Logistic Regression
 > 
@@ -66,7 +66,7 @@ By just putting in a few hours a week for the next few weeks, this is what youâ€
 > __Clustering__
 > In this section, you will learn about different clustering approaches. You learn how to use clustering for customer segmentation, grouping same vehicles, and also clustering of weather stations. You understand 3 main types of clustering, including Partitioned-based Clustering, Hierarchical Clustering, and Density-based Clustering.
 >
-> **4. LAB:** k-Means
+> [**4. LAB:** k-Means](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/blob/main/Week%204%20LABs/Week_4__LAB_1.ipynb)
 > 
 > **7. LAB:** Agglomerative clustering
 > 
