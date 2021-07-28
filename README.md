@@ -53,9 +53,9 @@ By just putting in a few hours a week for the next few weeks, this is what youâ€
 > 
 > [**7. LAB:** Decision Trees](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/blob/main/Week%203%20LABs/Week_3__LAB_2.ipynb)
 > 
-> **11. LAB:** Logistic Regression
+> [**11. LAB:** Logistic Regression](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/blob/main/Week%203%20LABs/Week_3__LAB_3.ipynb)
 > 
-> **13. LAB:** SVM (Support Vector Machines)
+> [**13. LAB:** SVM (Support Vector Machines)](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/blob/main/Week%203%20LABs/Week_3__LAB_4.ipynb)
 > 
 > **Graded:** Classification
 >
