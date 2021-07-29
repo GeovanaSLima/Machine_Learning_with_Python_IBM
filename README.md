@@ -68,7 +68,7 @@ By just putting in a few hours a week for the next few weeks, this is what youâ€
 >
 > [**4. LAB:** k-Means](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/blob/main/Week%204%20LABs/Week_4__LAB_1.ipynb)
 > 
-> **7. LAB:** Agglomerative clustering
+> [**7. LAB:** Agglomerative clustering](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/blob/main/Week%204%20LABs/Week_4__LAB_2.ipynb)
 > 
 > **9. LAB:** DBSCAN Clustering
 > 
