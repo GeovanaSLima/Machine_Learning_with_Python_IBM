@@ -81,9 +81,9 @@ By just putting in a few hours a week for the next few weeks, this is what youâ€
 > __Recommender Systems__
 > In this module, you will learn about recommender systems. First, you will get introduced with main idea behind recommendation engines, then you understand two main types of recommendation engines, namely, content-based and collaborative filtering.
 >
-> **3. LAB:** [Content-based Recommendation Systems](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/blob/main/Week%205/Week_5__LAB_1.ipynb)
+> **3. LAB:** [Content-based Recommendation Systems](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/blob/main/Week%205%20LABs/Week_5__LAB_1.ipynb)
 > 
-> **5. LAB:** Collaborative Filtering on Movies
+> **5. LAB:** [Collaborative Filtering on Movies](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM/blob/main/Week%205%20LABs/Week_5__LAB_2.ipynb)
 > 
 > **Graded:** Recommender System
 
